@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\bin\Debug\net7.0\Exceptions.exe
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\bin\Debug\net7.0\Exceptions.deps.json
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\bin\Debug\net7.0\Exceptions.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\bin\Debug\net7.0\Exceptions.dll
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\bin\Debug\net7.0\Exceptions.pdb
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\obj\Debug\net7.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\obj\Debug\net7.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\obj\Debug\net7.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\obj\Debug\net7.0\Exceptions.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\obj\Debug\net7.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\obj\Debug\net7.0\Exceptions.dll
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\obj\Debug\net7.0\refint\Exceptions.dll
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\obj\Debug\net7.0\Exceptions.pdb
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\obj\Debug\net7.0\Exceptions.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\Exceptions\obj\Debug\net7.0\ref\Exceptions.dll
